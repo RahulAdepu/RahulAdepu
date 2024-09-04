@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RahulAdepu
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning MERN stack development
-- 💞️ I’m looking to internship on web application development.
+- 👀 I’m interested in Cloud Enthusiastic
+- 🌱 I’m currently learning AWS, DevOps
+- 💞️ I’m looking for an internship in DevOps.
 - 📫 How to reach me - Mail me @ rahul4radepu@gmail.com
 
 <!---
