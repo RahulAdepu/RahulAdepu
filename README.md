@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @RahulAdepu
 - 👀 I’m interested in Cloud Enthusiastic
-- 🌱 I’m currently learning AWS, DevOps
-- 💞️ I’m looking for an internship in DevOps.
-- 📫 How to reach me - Mail me @ rahul4radepu@gmail.com
+- 💞️ I’m looking for an DevOps or Cloud roles.
+- 📫 How to reach me - Mail me @ rahuladepu99@gmail.com
 
 <!---
 RahulAdepu/RahulAdepu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
