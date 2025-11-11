@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RahulAdepu
-- 👀 I’m interested in Cloud Enthusiastic
+- 👀 I’m a Cloud Enthusiastic
 - 💞️ I’m looking for an DevOps or Cloud roles.
 - 📫 How to reach me - Mail me @ rahuladepu99@gmail.com
 
