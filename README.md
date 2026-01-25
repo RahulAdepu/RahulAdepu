@@ -49,9 +49,7 @@ I'm a **Cloud & DevOps Engineer** 🐳⚙️ who enjoys building, automating, an
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/RahulAdepu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>
+
   <a href="https://www.linkedin.com/in/rahul-adepu-614603151/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
