@@ -4,7 +4,7 @@
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36F754&random=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rahul+Adepu++)](https://git.io/typing-svg)
 
-I'm a **Cloud & DevOps Engineer** 🐳⚙️ who enjoys building, automating, and scaling reliable systems in the cloud.
+I'm a **Cloud & SRE Engineer** 🐳⚙️ who enjoys building, automating, and scaling reliable systems in the cloud.
 
 🐳 **Containerize** • 🚀 **Deploy** • ☸️ **Orchestrate** • ⚙️ **Automate** • 📦 **Ship**
 
