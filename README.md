@@ -1,61 +1,61 @@
-<div align="center">
+![container00](https://github.com/user-attachments/assets/6932c4aa-a56d-4eaa-824c-e0fe4ed0cab4)
 
-<img src="assets/hero-orbit.svg" width="100%" alt="Cloud, SRE and DevOps engineering: reliable systems built with care" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Scaling+horizontally%2C+literally+.+.+.+)](https://git.io/typing-svg)
+---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36F754&random=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Rahul+Adepu++)](https://git.io/typing-svg)
 
-# Rahul Adepu
+I'm a **Cloud & SRE Engineer** 🐳⚙️ who enjoys building, automating, and scaling reliable systems in the cloud.
 
-**Cloud &amp; SRE Engineer**
-
-[LinkedIn](https://www.linkedin.com/in/rahul-adepu-614603151/) · [Email](mailto:rahuladepu99@gmail.com)
-
-</div>
+🐳 **Containerize** • 🚀 **Deploy** • ☸️ **Orchestrate** • ⚙️ **Automate** • 📦 **Ship**
 
 ---
 
-## About
+### 👨‍💻 About Me
+- 🌱 Currently learning **advanced DevOps practices**
+- ☁️ Cloud Computing graduate with hands-on experience in **AWS, Azure & GCP**
+- ❤️ Love helping teams **ship fast and iterate safely**
+- 👯 Looking to collaborate on **DevOps, Cloud & Open-Source projects**
+- 💬 Ask me about **Containers, CI/CD, Kubernetes, Linux**
+- 🏎️ Focused on building **efficient, fast, and scalable systems**
+- 📖 Always learning and growing
 
-I'm a **Cloud &amp; SRE Engineer** who enjoys building, automating, and scaling reliable systems in the cloud.
+---
 
-- Cloud Computing graduate with hands-on experience in **AWS, Azure, and GCP**.
-- Currently learning **advanced DevOps practices**.
-- Interested in collaborating on **DevOps, Cloud, and open-source projects**.
-- Enjoy helping teams **ship fast and iterate safely**.
-- Topics I enjoy discussing: **containers, CI/CD, Kubernetes, and Linux**.
-- Focused on building **efficient, fast, and scalable systems**.
-- Always learning and growing.
+### 🛠️ Things I Like to Work With
 
-<div align="center">
+#### ☁️ Cloud & Infrastructure
+- AWS | Azure | GCP | DigitalOcean  
+- Linux  
+- Terraform | CloudFormation  
 
-**Containerize** · **Deploy** · **Orchestrate** · **Automate** · **Ship**
+#### ⚙️ DevOps & Observability
+- 🐳 Docker | ☸️ Kubernetes  
+- Jenkins | GitHub Actions | GitLab CI  
+- Datadog | Grafana | ELK Stack  
+- GitHub | GitLab  
 
-</div>
+#### 🗄️ Databases & Messaging
+- PostgreSQL | MySQL | MongoDB | DynamoDB  
+- Kafka  
 
-## Engineering workflow
+#### 💻 Programming & Scripting
+- Python  
+- Bash / Shell Scripting  
+- Node.js  
+- Golang  
+- TypeScript  
 
-The diagram groups the areas and tools listed in this profile into a practical cloud engineering workflow.
+---
 
-<img src="assets/pipeline.svg" width="100%" alt="Cloud engineering workflow across cloud platforms, infrastructure, delivery automation, and operations" />
+### 📫 Connect With Me
 
-## Technology stack
+<p align="left">
 
-<img src="assets/skyline.svg" width="100%" alt="Technology landscape covering cloud, infrastructure, delivery, observability, databases, messaging, programming, and scripting" />
+  <a href="https://www.linkedin.com/in/rahul-adepu-614603151/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:rahuladepu99@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-| Area | Technologies |
-| :--- | :--- |
-| **Cloud &amp; infrastructure** | AWS · Azure · GCP · DigitalOcean · Linux · Terraform · CloudFormation |
-| **DevOps &amp; delivery** | Docker · Kubernetes · Jenkins · GitHub Actions · GitLab CI · GitHub · GitLab |
-| **Observability** | Datadog · Grafana · ELK Stack |
-| **Databases &amp; messaging** | PostgreSQL · MySQL · MongoDB · DynamoDB · Kafka |
-| **Programming &amp; scripting** | Python · Bash / Shell Scripting · Node.js · Golang · TypeScript |
-
-## Connect
-
-I'm open to connecting with people working across **Cloud, DevOps, SRE, and open source**.
-
-[LinkedIn](https://www.linkedin.com/in/rahul-adepu-614603151/) · [rahuladepu99@gmail.com](mailto:rahuladepu99@gmail.com)
-
-<div align="center">
-
-<img src="assets/footer.svg" width="100%" alt="Minimal evergreen footer line" />
-
-</div>
