@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="56" viewBox="0 0 1000 56" role="img" aria-label="Minimal evergreen footer line">
+<path d="M0 28H1000" fill="none" stroke="#DCE5DE" stroke-width="1"/>
+<path d="M0 28C135 28 135 14 270 14S405 28 500 28s95-14 230-14 135 14 270 14" fill="none" stroke="#789A83" stroke-width="1.3"/>
+<circle cx="500" cy="28" r="3" fill="#B58A55"/>
+</svg>
